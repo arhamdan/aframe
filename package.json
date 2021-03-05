@@ -55,7 +55,7 @@
     "chalk": "^1.1.3",
     "codecov": "^1.0.1",
     "cross-env": "^5.0.1",
-    "exorcist": "^0.4.0",
+    "exorcist": "^2.0.0",
     "ghpages": "0.0.8",
     "git-rev": "^0.2.1",
     "glob": "^7.1.1",
