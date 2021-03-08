@@ -75,7 +75,7 @@
     "lolex": "^1.5.1",
     "markserv": "0.0.20",
     "minifyify": "^7.3.3",
-    "mocha": "^3.0.2",
+    "mocha": "^8.3.1",
     "mozilla-download": "^1.1.1",
     "replace-in-file": "^2.5.3",
     "semistandard": "^9.0.0",
